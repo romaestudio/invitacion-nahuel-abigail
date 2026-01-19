@@ -125,7 +125,7 @@ export default function Index() {
         <div className="max-w-md mx-auto text-center">
           <Heart className="w-12 h-12 mx-auto mb-4 text-wedding-olive animate-pulse-slow" />
           <p className="font-playfair text-2xl md:text-3xl text-wedding-olive italic leading-relaxed">
-            SEAN PARTE DE NUESTRA HISTORIA DE AMOR
+            Sean parte de nuestra historia de amor.
           </p>
         </div>
       </section>
